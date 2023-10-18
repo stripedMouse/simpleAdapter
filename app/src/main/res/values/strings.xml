@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Simple adapter</string>
+    <string name="item_selected_message">You choose</string>
+    <string name="ok">OK</string>
+</resources>
